@@ -1,5 +1,4 @@
-﻿" Saleable Area
-(in sq. ft.) ", Domestic GFA (in sq. ft.) ,No. of Units,Average No. of Units on a Typical Floor per Block,Average No. of Storeys,No. of Blocks,Average No. of Lifts per Block,Ratio Efficiency (SA-over-GFA)
+﻿"Saleable Area (in sq. ft.)",Domestic GFA (in sq. ft.),No. of Units,Average No. of Units on a Typical Floor per Block,Average No. of Storeys,No. of Blocks,Average No. of Lifts per Block,Ratio Efficiency (SA-over-GFA)
 "67,305","73,909",234,11,26,1,2,91.10%
 "102,145","113,450",228,10,26,1,2,90.00%
 "72,122","80,994",16,2,11,1,3,89.00%
